@@ -1,6 +1,3 @@
-Emma Byrne
-Student number: 16203560
-
 The folder COMP30640 must be set up in the home directory.
 Please copy and paste COMP30640 (which contains Assignment1 and the associated scripts) into your home directory.
 The scripts must be run in the directory Assignment1 which is in the COMP30640 directory (~/COMP30640/Assignment1). 
